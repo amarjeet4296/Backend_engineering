@@ -154,12 +154,73 @@ def upload_document(file, application_id, document_type):
         return None
 
 def get_application_status(application_id):
-    """Get application status from API."""
+    """Get application status from API or provide mock data if API is unavailable."""
     try:
-        response = requests.get(f"{API_URL}/api/applications/{application_id}")
-        response.raise_for_status()
-        return response.json()
-    except requests.exceptions.RequestException as e:
+        # Try to get from API first
+        try:
+            response = requests.get(f"{API_URL}/api/applications/{application_id}", timeout=3)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            st.warning(f"Could not connect to API. Using demo data for application status.")
+            
+        # Provide mock data for demonstration/testing purposes
+        if application_id:
+            # Use the application_id as a seed for consistent mock data
+            import hashlib
+            seed = int(hashlib.md5(application_id.encode()).hexdigest(), 16) % 10000
+            import random
+            random.seed(seed)
+            
+            statuses = ["pending", "approved", "rejected", "review"]
+            validation_statuses = ["pending", "verified", "incomplete", "flagged"]
+            risk_levels = ["low", "medium", "high"]
+            
+            # Generate mock application data
+            created_date = datetime.datetime.now() - datetime.timedelta(days=random.randint(1, 30))
+            
+            return {
+                "application_id": application_id,
+                "name": f"Demo User {application_id[-4:]}",
+                "income": random.randint(2000, 20000),
+                "family_size": random.randint(1, 7),
+                "address": "123 Demo Street, Demo City",
+                "assessment_status": random.choice(statuses),
+                "validation_status": random.choice(validation_statuses),
+                "risk_level": random.choice(risk_levels),
+                "created_at": created_date.isoformat(),
+                "updated_at": (created_date + datetime.timedelta(days=random.randint(0, 5))).isoformat(),
+                "score": random.randint(40, 95),
+                "documents": [
+                    {"document_id": str(uuid.uuid4()), "document_type": "emirates_id", "filename": "emirates_id.pdf", "status": "verified"},
+                    {"document_id": str(uuid.uuid4()), "document_type": "income_statement", "filename": "income.pdf", "status": random.choice(["pending", "verified"])},
+                    {"document_id": str(uuid.uuid4()), "document_type": "bank_statement", "filename": "bank.pdf", "status": random.choice(["pending", "verified"])},
+                ],
+                "recommendations": [
+                    {
+                        "id": 1,
+                        "category": "Financial Assistance",
+                        "description": "Based on your income and family size, you qualify for monthly financial support.",
+                        "priority": "high" if random.random() < 0.3 else "medium",
+                        "eligibility": random.randint(70, 100)
+                    },
+                    {
+                        "id": 2,
+                        "category": "Employment Support",
+                        "description": "You may benefit from our job placement program to improve your long-term financial stability.",
+                        "priority": "medium",
+                        "eligibility": random.randint(50, 90)
+                    },
+                    {
+                        "id": 3,
+                        "category": "Housing Assistance",
+                        "description": "You may qualify for housing support benefits to reduce your living expenses.",
+                        "priority": "low" if random.random() < 0.7 else "medium",
+                        "eligibility": random.randint(30, 80)
+                    }
+                ]
+            }
+    except Exception as e:
         st.error(f"Error getting application status: {str(e)}")
         return None
 

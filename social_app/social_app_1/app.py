@@ -7,10 +7,11 @@ import logging
 from datetime import datetime
 
 # Import agent modules
-from data_collector import DataCollector
-from validator import ValidatorAgent
-from assessor import AssessorAgent, Application
-from counselor import CounselorAgent
+from enhanced_system.agents.data_collector import DataCollector
+from enhanced_system.agents.validator import ValidatorAgent
+from enhanced_system.agents.assessor import AssessorAgent
+from enhanced_system.database.models import Application
+from enhanced_system.agents.counselor import CounselorAgent
 
 # Configure logging
 logging.basicConfig(
