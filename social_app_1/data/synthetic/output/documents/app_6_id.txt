@@ -1,0 +1,15 @@
+
+            EMIRATES ID
+            -----------------------
+            
+            Name: John Doe
+            Nationality: UK
+            ID Number: 790-2336-5565128-8
+            Date of Birth: 14/8/1988
+            Gender: Female
+            Expiry Date: 04/05/2027
+            
+            Address: Building 175, Street 90, Area 18, Ras Al Khaimah, UAE
+            
+            This ID is the property of the UAE government.
+            

@@ -1,0 +1,2700 @@
+[
+  {
+    "application_id": 1,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 2,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 3,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 4,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 5,
+    "recommendations": [
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 6,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 7,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 8,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 9,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 10,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 11,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 12,
+    "recommendations": [
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      }
+    ]
+  },
+  {
+    "application_id": 13,
+    "recommendations": [
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 14,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 15,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "medium",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 16,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 17,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "medium",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 18,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 19,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 20,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 21,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "medium",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 22,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      }
+    ]
+  },
+  {
+    "application_id": 23,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 24,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 25,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 26,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 27,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 28,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 29,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 30,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 31,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 32,
+    "recommendations": [
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 33,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 34,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 35,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 36,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 37,
+    "recommendations": [
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 38,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 39,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 40,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 41,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 42,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 43,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 44,
+    "recommendations": []
+  },
+  {
+    "application_id": 45,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 46,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 47,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 48,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 49,
+    "recommendations": []
+  },
+  {
+    "application_id": 50,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 51,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 52,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 53,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 54,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 55,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 56,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 57,
+    "recommendations": [
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 58,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 59,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 60,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 61,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "medium",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 62,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 63,
+    "recommendations": [
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 64,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 65,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 66,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 67,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 68,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 69,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 70,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 71,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 72,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "job_matching",
+        "priority": "high",
+        "title": "Government Job Placement Program",
+        "description": "Fast-track placement program with local employers and government agencies",
+        "eligibility": "Available to all unemployed applicants",
+        "link": "https://example.gov/job-placement"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 73,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 74,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "medium",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 75,
+    "recommendations": [
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 76,
+    "recommendations": [
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 77,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 78,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 79,
+    "recommendations": [
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 80,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 81,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 82,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 83,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 84,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  },
+  {
+    "application_id": 85,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 86,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 87,
+    "recommendations": [
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 88,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "medium",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 89,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 90,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 91,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      }
+    ]
+  },
+  {
+    "application_id": 92,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 93,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "senior_support",
+        "priority": "medium",
+        "title": "Senior Citizen Support Program",
+        "description": "Special assistance package for senior citizens including healthcare and social activities",
+        "eligibility": "Available to applicants over 55 years of age",
+        "link": "https://example.gov/senior-support"
+      }
+    ]
+  },
+  {
+    "application_id": 94,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 95,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 96,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 97,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "business_support",
+        "priority": "medium",
+        "title": "Small Business Grant Program",
+        "description": "Grants up to 50,000 AED for small business development or expansion",
+        "eligibility": "Available to self-employed applicants or small business owners",
+        "link": "https://example.gov/business-grants"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      }
+    ]
+  },
+  {
+    "application_id": 98,
+    "recommendations": [
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 99,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      }
+    ]
+  },
+  {
+    "application_id": 100,
+    "recommendations": [
+      {
+        "type": "upskilling",
+        "priority": "high",
+        "title": "Digital Skills Training Program",
+        "description": "Free 12-week digital skills program covering basic IT, coding, and digital marketing",
+        "eligibility": "Available to all applicants with income below 50,000 AED",
+        "link": "https://example.gov/digital-skills"
+      },
+      {
+        "type": "financial_literacy",
+        "priority": "medium",
+        "title": "Financial Management Workshop",
+        "description": "Workshop series on budgeting, saving, and debt management",
+        "eligibility": "Available to all applicants",
+        "link": "https://example.gov/financial-workshop"
+      },
+      {
+        "type": "family_support",
+        "priority": "medium",
+        "title": "Family Support Package",
+        "description": "Additional benefits for large families including education subsidies and healthcare",
+        "eligibility": "Available to families with 4 or more members",
+        "link": "https://example.gov/family-support"
+      },
+      {
+        "type": "youth_program",
+        "priority": "medium",
+        "title": "Youth Leadership Program",
+        "description": "Leadership development and mentorship program for young adults",
+        "eligibility": "Available to applicants under 30 years of age",
+        "link": "https://example.gov/youth-leadership"
+      }
+    ]
+  }
+]

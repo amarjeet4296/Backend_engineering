@@ -1,0 +1,19 @@
+
+            INCOME STATEMENT
+            -----------------------
+            
+            Name: John Doe
+            Employee ID: EMP95918
+            
+            Annual Income: AED 51834.26
+            Monthly Salary: AED 4319.52
+            
+            Employment Status: Employed
+            Employment Duration: 2 years
+            
+            This document certifies that the above individual has received
+            the stated income for the financial year 2025.
+            
+            Authorized Signature: __________________
+            Date: 27/05/2025
+            

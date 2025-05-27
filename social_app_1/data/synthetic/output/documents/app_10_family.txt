@@ -1,0 +1,32 @@
+
+            FAMILY COMPOSITION CERTIFICATE
+            -----------------------
+            
+            Head of Family: John Doe
+            National ID: 4158134
+            
+            Family Size: 4
+            
+            Family Members:
+            
+            1. Relation: Parent
+               Age: 61
+               Gender: Male
+               Residing at same address: No
+                
+            2. Relation: Sibling
+               Age: 14
+               Gender: Female
+               Residing at same address: No
+                
+            3. Relation: Spouse
+               Age: 65
+               Gender: Male
+               Residing at same address: Yes
+                
+            This document certifies that the above individuals are family members
+            of the applicant as registered in the national database.
+            
+            Issuing Authority: Department of Family Affairs
+            Date: 27/05/2025
+            

@@ -1,0 +1,19 @@
+
+            INCOME STATEMENT
+            -----------------------
+            
+            Name: John Doe
+            Employee ID: EMP37686
+            
+            Annual Income: AED 20919.76
+            Monthly Salary: AED 1743.31
+            
+            Employment Status: Self-employed
+            Employment Duration: 13 years
+            
+            This document certifies that the above individual has received
+            the stated income for the financial year 2025.
+            
+            Authorized Signature: __________________
+            Date: 27/05/2025
+            
